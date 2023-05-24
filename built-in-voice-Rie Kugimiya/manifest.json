@@ -1,0 +1,11 @@
+{
+    "name": "built-in-voice-jp",
+    "display-name": "Rie Kugimiya (Otaku's favorite)",
+    "avatar": "dark.png",
+    "avatar-dark":"avatar.png",
+    "version": "1.0.0",
+    "description": "Indispensable voice package for hentai otaku programmer",
+    "languages": ["javascript"],
+    "gender": "female",
+    "locale": "en"
+}
